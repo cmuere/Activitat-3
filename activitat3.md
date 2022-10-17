@@ -71,4 +71,4 @@ inconvenients per incompatibilitats.**
 * Canvia l'idioma a català.                                                                                                                                                                  
 ![Captura](activitat3-2.png.png)
 * Mostra la versió d'Owncloud instal·lada.
-![Captura](activitat3-5.png)
+![Captura](activitat3-5)
