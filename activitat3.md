@@ -68,7 +68,7 @@ inconvenients per incompatibilitats.**
 
 * Posa't una imatge d'usuari.
 * Afegeix el teu mail de l'Institut.
-* Canvia l'idioma a català.
+* Canvia l'idioma a català.                                                                                                                                                                  
 ![Captura](activitat3-2.png.png)
 * Mostra la versió d'Owncloud instal·lada.
 ![Captura](activitat3-5.png)
