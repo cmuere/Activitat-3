@@ -51,15 +51,15 @@ inconvenients per incompatibilitats.**
 * Això passa a tots els països?
 
 * Quina és la llicència d'OWncloud Enterprise?
- La llicencia és "ownCloud Commercial License"
+ **La llicencia és "ownCloud Commercial License"**
 * I la d'Owncloud Standard?
- La llicencia és "AGPLv3" 
+ **La llicencia és "AGPLv3"**
 * Es poden veure videos en Streaming directament des de Owncloud?
-Sí, es podem veure videos en streaming tant en la llicencia de Enterprise com la Standard
+**Sí, es podem veure videos en streaming tant en la llicencia de Enterprise com la Standard**
 * Es poden connectar directoris de Google Drive a Owncloud?
-Sí, es poden connectar directoris de Google Dirve a Owncloud 
+**Sí, es poden connectar directoris de Google Dirve a Owncloud**
 * I Dropbox?
-També es pot fer
+**També es pot fer**
 * Compta Owncloud amb antivirus? En cas afirmatiu com es diu?
-No el te integrat, pero es pot instal·lar apart
+**No el te integrat, pero es pot instal·lar apart**
 
