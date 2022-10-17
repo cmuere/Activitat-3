@@ -63,3 +63,10 @@ inconvenients per incompatibilitats.**
 * Compta Owncloud amb antivirus? En cas afirmatiu com es diu?
 **No el te integrat, pero es pot instal·lar apart**
 
+
+**3.4.-** Mostra els següents canvis de paràmetres d'usuari:
+
+* Posa't una imatge d'usuari.
+* Afegeix el teu mail de l'Institut.
+* Canvia l'idioma a català.
+* Mostra la versió d'Owncloud instal·lada.
