@@ -70,5 +70,5 @@ inconvenients per incompatibilitats.**
 * Afegeix el teu mail de l'Institut.
 * Canvia l'idioma a català.                                                                                                                                                                  
 ![Captura](activitat3-2.png.png)
-* Mostra la versió d'Owncloud instal·lada.
+* Mostra la versió d'Owncloud instal·lada.                                                                                        
 ![Captura](activitat3-5)
